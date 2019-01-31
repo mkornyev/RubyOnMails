@@ -1,25 +1,11 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Simple Rails Webapp: 
 
-Things you may want to cover:
+* Ruby Version: 2.4.3p205 (2017-12-14 revision 61247) [x86_64-darwin17]
 
+	Run the server with:  rails server 
+	Connect to:           localhost:3000
+	Enjoy:                :) 
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ..
+* END
